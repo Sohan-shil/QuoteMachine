@@ -1,0 +1,46 @@
+.quote-box {
+  max-width: 600px;
+  margin: 150px auto;
+  padding: 23px;
+  border: 2px solid #eeac25;
+  border-radius: 10px;
+  background-color: transparent;
+  text-align: center;
+}
+
+
+.quote-text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.quote-author {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.quote-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #ff8800;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.quote-button:hover {
+  background-color: #b38300;
+}
+
+#name {
+  margin-top: 20px;
+  color: #9d4a00;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
